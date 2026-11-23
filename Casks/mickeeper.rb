@@ -1,6 +1,6 @@
 cask "mickeeper" do
-  version "0.1.0"
-  sha256 "442068cbb4b4fe4ba67d726d936eb5c44fa2f22666feb8b98c40c089c7049fb5"
+  version "0.1.1"
+  sha256 "cb52b731df52d0f59e3ebca26c73ded305afedd3f9651b5e8d786318d4ea1793"
 
   url "https://github.com/wac0013/mickeeper/releases/download/v#{version}/MicKeeper-#{version}.zip"
   name "MicKeeper"
